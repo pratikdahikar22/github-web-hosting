@@ -4,7 +4,7 @@ async function addSiteCount() {
     myHeaders.append("Content-Type", "application/json");
   
     const raw = JSON.stringify({
-      "b-code": "B-rLNddCRRnBuAO24"
+      "b-code": "B-FIN9YcvE7IzyQXf"
     });
   
     const requestOptions = {
